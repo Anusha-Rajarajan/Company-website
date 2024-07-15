@@ -435,11 +435,7 @@ body {
 }
 ~~~
 ## OUTPUT:
-![s1 (1)](https://github.com/user-attachments/assets/18409a6f-31c8-4d77-81db-6db83dfce53c)
-![s2 (1)](https://github.com/user-attachments/assets/1fe24d71-f6f2-4f9f-9fc0-e412fc60fde7)
-![s3](https://github.com/user-attachments/assets/44a0d06d-c203-4f76-ae41-f54c6933a638)
-![s4](https://github.com/user-attachments/assets/f2d6abc2-4d93-4bd5-899e-3b73e950c10d)
-
-## Result:
-
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+![op1](https://github.com/user-attachments/assets/5ca14b03-5a24-4686-8d40-3a48727743b0)
+![op2](https://github.com/user-attachments/assets/cf0e5a1c-13a5-478d-90bf-e39a81e2fc48)
+![op3](https://github.com/user-attachments/assets/a435be2e-a43f-4510-9cc8-9730e4fb046b)
+![op4](https://github.com/user-attachments/assets/627b8529-69e9-4dea-b50c-bd93898834cf)
